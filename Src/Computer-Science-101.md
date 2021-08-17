@@ -2,6 +2,8 @@
 
 This is a self-paced introductory course to Computer Ccience by Nick Parlante - Stanford University. It introduces a complete beginner to the subject by taking them through the basic ideas of how computers works - the nature of computer, what it can and can't do, code, hardware, security, analog vs digital, memory, and other coputer concepts and jargons. 
 
+Link to the course: [Computer Science 101](https://learning.edx.org/course/course-v1:StanfordOnline+CSX0001+1T2020/home).
+
 **Note:** 
 * Keep in mind that this course uses **JavaScript** for exercises.
 
