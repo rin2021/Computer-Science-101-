@@ -1,5 +1,8 @@
-# Welcome to Stanford CS101
-This is a self-paced course. The outline below on this page lists all the lectures and exercises organized as Week-1, Week-2 to Week-6.
+# Stanford CS101 
+
+This is a self-paced introductory course to Computer Ccience by Nick Parlante - Stanford University. It introduces a complete beginner to the subject by taking them through the basic ideas of how computers works - the nature of computer, what it can and can't do, code, hardware, security, analog vs digital, memory, and other coputer concepts and jargons. 
+
+Link to the course: [Computer Science 101](https://learning.edx.org/course/course-v1:StanfordOnline+CSX0001+1T2020/home).
 
 **Note:** 
 * Keep in mind that this course uses **JavaScript** for exercises.
@@ -18,4 +21,6 @@ Again in JavaScript, comment are written using two forward slashes.
 ```javascripts
 \\This is a comment and the computer will ignore when you run your code
 ```
-  
+## Syntax error 
+Everyone runs into a syntax error. It basically means that the computer does not understand your command because you made a mistake in typing the syntaxes. For the most part, the error messages are straight forward and clear, but they can be subtle too. But nothing to be ashamed; it happens to everyone. 
+ 
