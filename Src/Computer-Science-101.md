@@ -13,7 +13,7 @@ In computer science a string is **a series of letters**. In JavaScript, a string
 print("This is a string."); 
 ```
 It will print (display): `This is a string.`
-
+Strings are used to hold urls or paragraphs. 
 **Strings and numbers are the two most common data types in computer code.**
 
 Commenets are written to make notes for yourself (the programmer) within the code. The computer will ignore them when you run the code.
