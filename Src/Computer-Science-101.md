@@ -30,3 +30,4 @@ In computer science, variables are used as a way of assigning values to a box (m
 For example, if you assigned `x = this is funny as hell`, you will be able to write `x` whenever you want to write `this is funny as hell` and the computer will pull the value which is `this is funny as hell`.  
 Another example, say `x = 700`
 This stores the value 700 into the variable (i.e. box) **x**, so that you can conveniently retrive them in th efuture.
+**Variables are used to store information to be referenced and manipulated in a computer program.**
