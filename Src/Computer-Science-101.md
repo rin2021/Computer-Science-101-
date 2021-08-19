@@ -7,6 +7,7 @@ Link to the course: [Computer Science 101](https://learning.edx.org/course/cours
 **Note:** 
 * Keep in mind that this course uses **JavaScript** for exercises.
 
+# How Code works in Computer?
 ## What is a string?
 In computer science, a string is **a series of letters or a sequence of characters**. In JavaScript, a string is written within double quotes:
 ```javascript
@@ -31,3 +32,11 @@ For example, if you assigned `x = this is funny as hell`, you will be able to wr
 Another example, say `x = 700`
 This stores the value 700 into the variable (i.e. box) **x**, so that you can conveniently retrive them in th efuture.
 **Variables are used to store information to be referenced and manipulated in a computer program.**
+
+# How digital image works Computer?
+Digital images comprises of pixels. They are small boxes of colors.
+1 mega pizex = 1 million pixels.
+
+By using three natural colors (lights) - Red, Green, Blue (RGB) - you can make any color by combining (mixing) them together in fifferent ways.
+So, each coolor (pixel) can be indicated by numbers of the three colors- RGB. So you can say, every color has three numbers.
+For exmaple, you can say a pixel has 20, 50, 100. That means it has 20 red, 50 green and 100 blue, which will give you a particular color. The no indicates the intensity of the color. Let's say 255 is the most intense, and if red is 250, then the most red is present in the pixel. If all the three colors are at Zero, you get black; if all three colors are at 255, you get white color.  
