@@ -8,7 +8,7 @@ Link to the course: [Computer Science 101](https://learning.edx.org/course/cours
 * Keep in mind that this course uses **JavaScript** for exercises.
 
 ## What is a string?
-In computer science a string is **a series of letters**. In JavaScript, a string is written within double quotes:
+In computer science, a string is **a series of letters or a sequence of characters**. In JavaScript, a string is written within double quotes:
 ```javascript
 print("This is a string."); 
 ```
@@ -16,11 +16,17 @@ It will print (display): `This is a string.`
 Strings are used to hold urls or paragraphs. 
 **Strings and numbers are the two most common data types in computer code.**
 
-Commenets are written to make notes for yourself (the programmer) within the code. The computer will ignore them when you run the code.
-Again in JavaScript, comment are written using two forward slashes.
+**Commenets** are written to make notes for yourself (the programmer) within the code. The computer will ignore them when you run the code.
+Again in JavaScript, comments are written using two forward slashes.
 ```javascripts
 \\This is a comment and the computer will ignore when you run your code
 ```
 ## Syntax error 
-Everyone runs into a syntax error. It basically means that the computer does not understand your command because you made a mistake in typing the syntaxes. For the most part, the error messages are straight forward and clear, but they can be subtle too. But nothing to be ashamed; it happens to everyone. 
- 
+Everyone runs into a syntax error. It basically means that the computer does not understand your command because you made a mistake in typing the syntaxes and the computer fails to do what you want it to do. For the most part, the error messages are straight forward and clear, but they can be subtle too. But nothing to be ashamed; it happens to everyone. 
+
+## But what are variables againg?
+Okay, I understand what are strings, but whar are variables then?
+In computer science, variables are used as a way of assigning values to a box (memory) so that you can retrive it later whenever you want use it. And that saves you from repeatedly writing the value.
+For example, if you assigned `x = this is funny as hell`, you will be able to write `x` whenever you want to write `this is funny as hell` and the computer will pull the value which is `this is funny as hell`.  
+Another example, say `x = 700`
+This stores the value 700 into the variable (i.e. box) **x**, so that you can conveniently retrive them in th efuture.
