@@ -15,6 +15,8 @@ Example of code:
 ```javascript
 print(1, 2);
 ```
+If you run this code, the output will be 1 2. Which means the machine understands that the user is giving him command to print 1 2. 
+
 ## What is a string?
 In computer science, a string is **a series of letters or a sequence of characters**. In JavaScript, a string is written within double quotes:
 ```javascript
