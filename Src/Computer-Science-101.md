@@ -7,7 +7,7 @@ Link to the course: [Computer Science 101](https://learning.edx.org/course/cours
 **Note:** 
 * Keep in mind that this course uses **JavaScript** for exercises.
 
-# How Code works in Computer?
+# Code Writing: Why Code and how does it work in Computer?
 
 Humans need a language to communicate with machines. This is what computer programming languages are for - to tell the computer what to do. There are numerous language - JavaScript, Python, C++, PHP, etc.
 Using code or programming language, you write algorithms which are basically commands for the machine to perform. Algorithm sets the rules and steps for the machine to perform a particular task.      
@@ -34,7 +34,7 @@ Again in JavaScript, comments are written using two forward slashes.
 ## Syntax error 
 Everyone runs into a syntax error. It basically means that the computer does not understand your command because you made a mistake in typing the syntaxes and the computer fails to do what you want it to do. For the most part, the error messages are straight forward and clear, but they can be subtle too. But nothing to be ashamed; it happens to everyone. 
 
-## But what are variables againg?
+## But what are Code Variables?
 Okay, I understand what are strings, but whar are variables then?
 In computer science, variables are used as a way of assigning values to a box (memory) so that you can retrive it later whenever you want use it. And that saves you from repeatedly writing the value.
 For example, if you assigned `x = this is funny as hell`, you will be able to write `x` whenever you want to write `this is funny as hell` and the computer will pull the value which is `this is funny as hell`.  
@@ -90,4 +90,7 @@ This will set the pixel number 1,1 of the image `x.png` to red whith the intensi
 If you run the code, it will look something like this: 
   
 <image src="https://github.com/rin2021/Computer-Science-101-/blob/main/Src/Assets/red.png" alt="red pixel" width="60" height="60">  
+  
+## Image For-Loop
+  
   
