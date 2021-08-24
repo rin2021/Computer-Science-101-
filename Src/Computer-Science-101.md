@@ -8,6 +8,13 @@ Link to the course: [Computer Science 101](https://learning.edx.org/course/cours
 * Keep in mind that this course uses **JavaScript** for exercises.
 
 # How Code works in Computer?
+
+Humans need a language to communicate with machines. This is what computer programming languages are for. There are numerous language - JavaScript, Python, C++, PHP, etc.
+Using code or programming language, you write algorithms which are basically commands for the machine to perform. Algorithm sets the rules and steps for the machine to perform a particular task.      
+Example of code:
+```javascript
+print(1, 2);
+```
 ## What is a string?
 In computer science, a string is **a series of letters or a sequence of characters**. In JavaScript, a string is written within double quotes:
 ```javascript
