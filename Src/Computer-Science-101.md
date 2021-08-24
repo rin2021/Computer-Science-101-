@@ -59,20 +59,35 @@ For exmaple, you can say a pixel has 20, 50, 100. That means it has 20 red, 50 g
 PNG is an image format, Portable Network Graphic
 
 ### Let's breakdown this image code: Remember, this is JavaScript
-
+```javascript
 image = new SimpleImage("x.png");
 image.setZoom(20);
 print(image);
+```
 *The image "x.png" is very simple -- it's a very small black square with a white "x" at its center.*
+
 **What is this code (command) telling the computer to do?**
 This is a three line program
 image = new SimpleImage("x.png"); -- this line calls the computer to load the x.png image into a variable
-image.setZoom(20); -- this line calls the computer to set zoom option to 20 (you can choose 10, 20, 30, etc)
+image.setZoom(20); -- this line calls the computer to set zoom option to 20 (you can choose 10, 20, 30, etc). It calls the setZoom functions. There are others functions like this.
 print(image); -- This line calls the computer to print image to the right.
 If you run the code, you will see something like this:
 
 <image src="https://github.com/rin2021/Computer-Science-101-/blob/main/Src/Assets/x.png" alt="x.png" width="60" height="60">
 
 Zoom: each pixel shown 20x size here.
-Our first image code example loads the x.png image and prints it.
+Our first image code example loads the `x.png` image and prints it.
+  
+**Another exmple:**
+```javascript
+image = new SimpleImage("x.png");
+image.setZoom(20);
+pixel = image.getPixel(1, 1);
+pixel.setRed(250);
+print(image);
+```  
+This will set the pixel number 1,1 of the image `x.png` to red whith the intensity of 250 (which is very red).
+If you run the code, it will look something like this: 
+  
+<image src="https://github.com/rin2021/Computer-Science-101-/blob/main/Src/Assets/red.png" alt="red pixel" width="60" height="60">  
   
