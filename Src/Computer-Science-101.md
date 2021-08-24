@@ -42,7 +42,7 @@ Another example, say `x = 700`
 This stores the value 700 into the variable (i.e. box) **x**, so that you can conveniently retrive them in th efuture.
 **Variables are used to store information to be referenced and manipulated in a computer program.**
 
-# How digital image works Computer?
+# How digital image works in Computer?
 Digital images comprises of pixels. They are small boxes of colors.
 
 1 mega pixex = 1 million pixels.
@@ -53,3 +53,26 @@ So, each coolor (pixel) can be indicated by numbers of the three colors- RGB. So
 Every pixel shows one color and that color can be captured by three no.
 
 For exmaple, you can say a pixel has 20, 50, 100. That means it has 20 red, 50 green and 100 blue, which will give you a particular color. The no indicates the intensity of the color. Let's say 255 is the most intense, and if red is 250, then the most red is present in the pixel. The intensity starts with 0 = dark (no light or color, you can see anything).  If all the three colors are at Zero, you get black; if all three colors are at 255, you get white color.
+
+## Image Code
+
+PNG is an image format, Portable Network Graphic
+
+### Let's breakdown this image code: Remember, this is JavaScript
+
+image = new SimpleImage("x.png");
+image.setZoom(20);
+print(image);
+*The image "x.png" is very simple -- it's a very small black square with a white "x" at its center.*
+**What is this code (command) telling the computer to do?**
+This is a three line program
+image = new SimpleImage("x.png"); -- this line calls the computer to load the x.png image into a variable
+image.setZoom(20); -- this line calls the computer to set zoom option to 20 (you can choose 10, 20, 30, etc)
+print(image); -- This line calls the computer to print image to the right.
+If you run the code, you will see something like this:
+
+<image src="https://github.com/rin2021/Computer-Science-101-/blob/main/Src/Assets/x.png" alt="x.png" width="60" height="60">
+
+Zoom: each pixel shown 20x size here.
+Our first image code example loads the x.png image and prints it.
+  
