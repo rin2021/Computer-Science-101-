@@ -92,5 +92,9 @@ If you run the code, it will look something like this:
 <image src="https://github.com/rin2021/Computer-Science-101-/blob/main/Src/Assets/red.png" alt="red pixel" width="60" height="60">  
   
 ## Image For-Loop
+
+  In computer science, a for-loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. 
+  In this case we are applying the concept of for-loop to image processing.
+  
   
   
