@@ -101,6 +101,8 @@ With for-loop, you can avoid writing the code manually for each pixel as in:
 `pixel = image.getPixel(1, 1);
 pixel.setRed(250);`
 
-This is not practical way to process image.   
+This is not practical way to process a whole image.   
+
+Using for-loop, you can just write a few line of code that capture the changes we want to make.
   
   
