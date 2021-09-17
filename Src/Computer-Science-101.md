@@ -94,7 +94,13 @@ If you run the code, it will look something like this:
 ## Image For-Loop
 
   In computer science, a for-loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. 
+  
   In this case we are applying the concept of for-loop to image processing.
   
+With for-loop, you can avoid writing the code manually for each pixel as in:
+`pixel = image.getPixel(1, 1);
+pixel.setRed(250);`
+
+This is not practical way to process image.   
   
   
